@@ -2,9 +2,13 @@
 - 👀 I’m interested in learning and exploring  new things
 - 🌱 I’m currently learning react and node js 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mahedy-hasan-b23236212/])
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mahedy-hasan-b23236212/)
+[<img align="left" alt="codeSTACKr | hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" />](https://www.hackerrank.com/mhdyhasanpust017)
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://www.facebook.com/mahedy.meem/)
 [<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />](https://medium.com/@mhdyhasanpust017)
+
+
+
 <br/> 
 
 
